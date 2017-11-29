@@ -1,4 +1,4 @@
-ForgeRock Developer Programming Exercise
+A Developer's Programming Exercise
 ==============
 
 	I created three test packages: com.kent.jones.atomic, ..factory, and ..service
